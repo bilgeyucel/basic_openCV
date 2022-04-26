@@ -3,7 +3,7 @@ This is an alternative video processor that I implemented using different openCV
 
 Features I used:
 
-* Greyscaling
+* Grayscaling
 * Gaussian Filter
 * Bilateral Filter
 * Object Detection
